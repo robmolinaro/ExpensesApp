@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Employee_Compact_Layout</fullName>
+    <fields>Employee_Name__c</fields>
+    <fields>Name</fields>
+    <fields>Date_of_Hire__c</fields>
+    <fields>Manager__c</fields>
+    <label>Employee Compact Layout</label>
+</CompactLayout>
